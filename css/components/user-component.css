@@ -26,6 +26,11 @@
   color: var(--point-color);
 }
 
+.user-component__subtitle i {
+  color: tomato;
+  margin-left: 5px;
+}
+
 .user-component__avetar--xl {
   width: 80px;
   height: 80px;
